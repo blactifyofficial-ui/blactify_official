@@ -87,12 +87,17 @@ export async function sendSignupOTP(email: string) {
                 </div>
             `;
 
-            await resend.emails.send({
+            const { error: resendError } = await resend.emails.send({
                 from: SELLER_CONFIG.fromEmail,
                 to: [emailToProcess],
                 subject: `${otp} is your verification code`,
                 html: emailHtml,
             });
+
+            if (resendError) {
+                console.error("Resend error:", resendError);
+                return { success: false, error: "Failed to send verification email. Please try again." };
+            }
         }
 
         return { success: true };
