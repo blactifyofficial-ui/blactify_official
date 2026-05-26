@@ -31,9 +31,9 @@ export function Footer() {
                             <h3 className="text-sm font-bold text-black tracking-tight">Connect</h3>
                             <ul className="space-y-4 text-xs font-medium text-zinc-900">
                                 <li>
-                                    <a href="tel:+919207965510" className="hover:text-zinc-500 transition-colors">
+                                    <Link href="/contact" className="hover:text-zinc-500 transition-colors">
                                         Contact
-                                    </a>
+                                    </Link>
                                 </li>
                                 <li>
                                     <a href="https://instagram.com/blactify" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-500 transition-colors">
@@ -41,12 +41,12 @@ export function Footer() {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://wa.me/919207965510" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-500 transition-colors">
+                                    <a href="https://wa.me/917306663523" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-500 transition-colors">
                                         WhatsApp
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="mailto:blactifyofficial@gmail.com?subject=Support%20Request%20-%20BLACTIFY" className="hover:text-zinc-500 transition-colors">
+                                    <a href="mailto:nithinnt07@gmail.com?subject=Support%20Request%20-%20BLACTIFY" className="hover:text-zinc-500 transition-colors">
                                         Email
                                     </a>
                                 </li>

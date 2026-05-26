@@ -42,5 +42,5 @@ A premium e-commerce experience for timeless essentials.
 
 ## Contact
 
-For any queries or support, reach out to us at [support@blactify.com](mailto:support@blactify.com).
+For any queries or support, reach out to us at [nithinnt07@gmail.com](mailto:nithinnt07@gmail.com).
 

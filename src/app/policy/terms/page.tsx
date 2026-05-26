@@ -64,7 +64,7 @@ export default function TermsOfServicePage() {
                     <section className="space-y-4 pt-12 border-t border-zinc-100">
                         <h2 className="text-sm font-bold uppercase tracking-widest text-black">Contact Us</h2>
                         <p>
-                            For any queries regarding these terms, reach out at <a href="mailto:support@blactify.com" className="text-black font-medium underline">support@blactify.com</a>.
+                            For any queries regarding these terms, reach out at <a href="mailto:nithinnt07@gmail.com" className="text-black font-medium underline">nithinnt07@gmail.com</a>.
                         </p>
                     </section>
                 </div>

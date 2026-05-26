@@ -294,7 +294,7 @@ export default function InvoicePage() {
 
                     <div className="mt-12 text-[10px] text-zinc-300 flex justify-center gap-8 uppercase tracking-widest border-t border-zinc-50 pt-8">
                         <span>blactify.com</span>
-                        <span>support@blactify.com</span>
+                        <span>nithinnt07@gmail.com</span>
                     </div>
                 </div>
 

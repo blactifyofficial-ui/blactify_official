@@ -38,7 +38,7 @@ export async function processOrderShippingInternal(order: Order) {
         pickup_location: {
             name: shopName,
             add: "Blactify Studio, Kozhikode, Kerala",
-            phone: "9207965510",
+            phone: "7306663523",
             pin: originPin
         }
     };
