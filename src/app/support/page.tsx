@@ -168,7 +168,7 @@ export default function SupportPage() {
                     <p className="text-zinc-400 text-[10px] font-bold uppercase tracking-[0.2em] mt-4">Raise a ticket and we&apos;ll get back to you</p>
                     <div className="mt-8 p-4 bg-zinc-50 border border-zinc-100 rounded-2xl flex items-center justify-between">
                         <span className="text-[10px] font-bold uppercase tracking-widest text-zinc-400">Direct Contact</span>
-                        <a href="mailto:nithinnt07@gmail.com" className="text-[11px] font-bold text-black hover:underline tracking-tight">nithinnt07@gmail.com</a>
+                        <a href="mailto:blactifyofficial@gmail.com" className="text-[11px] font-bold text-black hover:underline tracking-tight">blactifyofficial@gmail.com</a>
                     </div>
                 </header>
 

@@ -41,12 +41,12 @@ export function Footer() {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://wa.me/917306663523" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-500 transition-colors">
+                                    <a href="https://wa.me/919207965510" target="_blank" rel="noopener noreferrer" className="hover:text-zinc-500 transition-colors">
                                         WhatsApp
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="mailto:nithinnt07@gmail.com?subject=Support%20Request%20-%20BLACTIFY" className="hover:text-zinc-500 transition-colors">
+                                    <a href="mailto:blactifyofficial@gmail.com?subject=Support%20Request%20-%20BLACTIFY" className="hover:text-zinc-500 transition-colors">
                                         Email
                                     </a>
                                 </li>
